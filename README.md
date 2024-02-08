@@ -4,3 +4,5 @@ Data is collected from different platforms.
 
 UI page Video: "https://azureloyalistcollege-my.sharepoint.com/:v:/g/personal/pulkitbatra_loyalistcollege_com/EXVuUt0k5IJPqYrYvjmj3d8BVGFpNgRBC__2UUA8Tjvgiw?e=ejFFCY&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D" 
 
+UI pic: "https://drive.google.com/file/d/1l63hYu0EiY8niY5fnohQhDnGuqUFVEGi/view?usp=sharing"
+
