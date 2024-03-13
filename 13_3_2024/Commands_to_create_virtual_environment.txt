@@ -1,0 +1,15 @@
+1. First create folder in local disk such as C: and open folder in VS code
+2. Then open terminal
+3. python -m venv project_path\venv
+   Look folders created under project
+4. Press cnt+shif+p look for python interpretor in search box > click on find>
+   Then go to same project path and go to scripts and then select python
+   Or either use this command 
+   .\venv\Scripts\activate
+5. python -m pip install --upgrade pip
+6. pip install -r requirements.txt
+7. pip install tenserflow
+8. pip install keras
+9. pip install flask
+10. pip install pillow 
+	
